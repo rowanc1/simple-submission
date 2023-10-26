@@ -3,8 +3,27 @@ version: 1
 project:
   # title:
   # description:
-  keywords: []
-  authors: []
+  keywords:
+    - hi
+    - hi
+    - hi
+    - hi
+    - hi
+    - hi
+  authors:
+    - name: Rowan Cockett
+      # email: rowan@curvenote.com
+      affiliation: Curvenote
+      orcid: 0000-0000-0000-0000
+      roles:
+        - worked on checks
+        - editing
+    - name: Franklin
+      # email: franklin@curvenote.com
+      # affiliation: Curvenote
+      orcid: 0000-0000-0000-0000
+      roles:
+        - editing
   github: https://github.com/rowanc1/simple-submission
   # bibliography: []
 site:
